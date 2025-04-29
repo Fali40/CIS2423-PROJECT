@@ -1,0 +1,26 @@
+1. The purpose of data analysis?
+
+The purpose of data analysis for the data set of sleep health and lifestyle is to understand how different things in person’s life such as daily habits and job affect how well they sleep.  
+With have the data analyzed we can find patterns, make prediction, give health advice and prevent health problem earlier.
+
+
+2. Type of programming used for data analysis?
+
+The type of programming used for analyzing the Sleep Health and Lifestyle Dataset is Python because it is user-friendly, has many libraries for data preprocessing, visualization, and machine learning, and can handle big datasets effectively. 
+
+
+3. Type and purpose of the machine learning algorithm?
+
+The best machine learning algorithm to be implemented is Supervised Learning (classification model) because our data is labeled, making it easier to predict outcomes. For example, the sleep disorder column is categorical, allowing us to determine whether a person has a sleep disorder or not. This makes classification suitable for making accurate predictions. 
+
+
+4. The independent and dependent variables?
+
+Independent variables: Physical Activity Level, Stress Level 
+dependent variable: Quality of Sleep 
+Level of Physical Activity → Sleep Quality 
+Through the control of the circadian cycle and the reduction of sleep onset time, regular exercise is known to improve sleep quality. 
+Longer sleep phases and increased sleep efficiency are further benefits of physical activity. 
+Stress Level → Sleep Quality 
+Increased cortisol (the stress hormone) release is linked to higher stress levels, and this can cause trouble sleeping and frequent nighttime awakenings. 
+Sleeplessness is a result of conditions linked to stress, like depression and overthinking. 
