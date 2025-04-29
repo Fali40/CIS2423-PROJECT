@@ -1,0 +1,8 @@
+1. Purpose of using descriptive analysis? 
+
+Using descriptive analysis help us with several things such as: 
+-find the average for example: sleep average or stress level average 
+-spot the outliers that can indicate the health issues  
+-have some sampling and modeling decisions that help us spot the normal and abnormal things 
+
+The rest question are (coding questions) all in the 'sleep_health_and_lifestyle_dataset.ipynb' file
